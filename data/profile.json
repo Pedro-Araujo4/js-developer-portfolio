@@ -1,7 +1,7 @@
 {
   "name": "Pedro Augusto",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "",
+  "photo": "https://avatars.githubusercontent.com/u/163650519?v=4",
+  "job": "Desempregado",
   "location": "Minas Gerais - MG",
   "phone": "(34) 9 9339-7469",
   "email": "pa298571@gmail.com",
@@ -26,19 +26,14 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Jogo criado JavaScript, CSS e HTML sobre Yu-Gi-Oh | Jo-ken-po Edition",
+      "url": "https://github.com/Pedro-Araujo4/yu-gi-oh-game.git",
       "github": true
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
       "url": "https://github.com/RenanJPaula/js-developer-portfolio",
       "github": true
-    }
-  ],
-  "professionalExperience": [
-    {
-      
     }
   ]
 }
