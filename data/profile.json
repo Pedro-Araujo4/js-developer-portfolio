@@ -1,7 +1,7 @@
 {
   "name": "Pedro Augusto",
   "photo": "https://avatars.githubusercontent.com/u/163650519?v=4",
-  "job": "Desempregado",
+  "job": "Ciência da Computação",
   "location": "Minas Gerais - MG",
   "phone": "(34) 9 9339-7469",
   "email": "pa298571@gmail.com",
@@ -31,8 +31,8 @@
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Landing Page do Mundo invertido",
+      "url": "https://github.com/Pedro-Araujo4/semana-frontend-mundo-invertido.git",
       "github": true
     }
   ]
